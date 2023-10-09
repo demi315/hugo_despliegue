@@ -1,0 +1,1 @@
+**Este texto es el que está dentro del fichero include**    
