@@ -1,0 +1,19 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Ignacio de Miguel'
+theme = 'hugo-theme-relearn'
+defaultContentLanguage = 'es'
+
+[params]
+    [params.siteparam.test]
+        text = "Este es el texto del parámetro de prueba"
+
+[Languages]
+    [Languages.es]
+        weight = 1
+        languageName = "Español"
+        ContentDir="content/es"
+    [Languages.en]
+        weight = 2
+        languageName = "English"
+        ContentDir="content/en"

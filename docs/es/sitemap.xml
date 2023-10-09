@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://example.org/personal/estudios/index.html</loc>
+    <lastmod>2023-09-25T09:50:27+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://example.org/personal/index.html</loc>
+    <lastmod>2023-09-25T09:33:36+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://example.org/personal/conocimientos/index.html</loc>
+    <lastmod>2023-09-25T10:04:37+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://example.org/markdown/index.html</loc>
+    <lastmod>2023-09-19T10:56:03+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://example.org/shortcode/index.html</loc>
+    <lastmod>2023-09-25T10:32:40+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://example.org/personal/aptitudes/index.html</loc>
+    <lastmod>2023-09-25T10:04:45+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://example.org/index.html</loc>
+    <lastmod>2023-09-20T18:34:01+02:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.org/index.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.org/index.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.org/en/index.html" />
+  </url>
+  <url>
+    <loc>https://example.org/categories/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.org/categories/index.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.org/categories/index.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.org/en/categories/index.html" />
+  </url>
+  <url>
+    <loc>https://example.org/tags/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.org/tags/index.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.org/tags/index.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.org/en/tags/index.html" />
+  </url>
+</urlset>

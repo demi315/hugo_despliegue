@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About me on Ignacio de Miguel</title>
+    <link>https://example.org/en/personal_en/index.html</link>
+    <description>Recent content in About me on Ignacio de Miguel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 25 Sep 2023 09:33:36 +0200</lastBuildDate><atom:link href="https://example.org/en/personal_en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Estudios</title>
+      <link>https://example.org/en/personal_en/studies/index.html</link>
+      <pubDate>Mon, 25 Sep 2023 09:50:27 +0200</pubDate>
+      <guid>https://example.org/en/personal_en/studies/index.html</guid>
+      <description>- I studied one year abroad in Ireland when i was 15/16 - Two years of computer science I passed 16 out of 20 courses, I quitted university in 2020 due to mental health - Web Applications Development (Certificate of Higher Education) </description>
+    </item>
+    <item>
+      <title>Conocimientos</title>
+      <link>https://example.org/en/personal_en/knowledge/index.html</link>
+      <pubDate>Mon, 25 Sep 2023 10:04:37 +0200</pubDate>
+      <guid>https://example.org/en/personal_en/knowledge/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Aptitudes</title>
+      <link>https://example.org/en/personal_en/skills/index.html</link>
+      <pubDate>Mon, 25 Sep 2023 10:04:45 +0200</pubDate>
+      <guid>https://example.org/en/personal_en/skills/index.html</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

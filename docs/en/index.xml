@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ignacio de Miguel</title>
+    <link>https://example.org/en/index.html</link>
+    <description>Recent content on Ignacio de Miguel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 20 Sep 2023 18:34:01 +0200</lastBuildDate><atom:link href="https://example.org/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>https://example.org/en/personal_en/index.html</link>
+      <pubDate>Mon, 25 Sep 2023 09:33:36 +0200</pubDate>
+      <guid>https://example.org/en/personal_en/index.html</guid>
+      <description>· Studies · Knowledge · Skills </description>
+    </item>
+    <item>
+      <title>Markdown Cheatsheet</title>
+      <link>https://example.org/en/markdown_en/index.html</link>
+      <pubDate>Tue, 19 Sep 2023 10:56:03 +0200</pubDate>
+      <guid>https://example.org/en/markdown_en/index.html</guid>
+      <description>Different ways to highlight text Italics Bold A little bit weird mix Line above it ### Different ways to highlight text + *Italics* + **Bold** + ***A* little bit _weird_** _mix_ + ~~Line above it~~Ways to create [links] Link to Google Link to Google, but when you hover your mouse avobe the link a text will show up Links with references: Text reference to Reddit Numerical reference to Reddit The text itself its the reference to the link Twitter pictures ### Ways to create [links] 1.</description>
+    </item>
+    <item>
+      <title>Shortcode</title>
+      <link>https://example.org/en/shortcode_en/index.html</link>
+      <pubDate>Mon, 25 Sep 2023 10:32:40 +0200</pubDate>
+      <guid>https://example.org/en/shortcode_en/index.html</guid>
+      <description>Attachments Sample files mtga.txt (25 B) otaku.txt (13 B) Badges Pirate King Hito Hito no Mi, Model: Nika
+Buttons Home Expand Menos Hello Hightlights &amp;#8203; c++ 1 2 3 4 5 6 7 8 #include &amp;lt;iostream&amp;gt; using namespace std; int main(){ cout &amp;lt;&amp;lt; &amp;#34;Hello world&amp;#34;; return 0; } Icons https://fontawesome.com/v5/search?m=free
+Include Este texto es el que está dentro del fichero include
+Math $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$ Mermaid %%{init:{&amp;#34;fontFamily&amp;#34;:&amp;#34;monospace&amp;#34;, &amp;#34;sequence&amp;#34;:{&amp;#34;showSequenceNumbers&amp;#34;:true}}}%% sequenceDiagram Alice-&amp;gt;&amp;gt;John: Hello John, how are you?</description>
+    </item>
+  </channel>
+</rss>

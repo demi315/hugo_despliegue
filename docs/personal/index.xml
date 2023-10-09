@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sobre Mí on Ignacio de Miguel</title>
+    <link>https://example.org/personal/index.html</link>
+    <description>Recent content in Sobre Mí on Ignacio de Miguel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 25 Sep 2023 09:33:36 +0200</lastBuildDate><atom:link href="https://example.org/personal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Estudios</title>
+      <link>https://example.org/personal/estudios/index.html</link>
+      <pubDate>Mon, 25 Sep 2023 09:50:27 +0200</pubDate>
+      <guid>https://example.org/personal/estudios/index.html</guid>
+      <description>- Estudié cuarto de la ESO en Irlanda - Bachillerato Tecnológico - Dos años de Ingeniería Informática Aprobadas 16 de 20 asignaturas, dejé la carrera por salud mental en 2020 - Desarrollo de Aplicaciones Web (Ciclo Formativo de Grado Superior) </description>
+    </item>
+    <item>
+      <title>Conocimientos</title>
+      <link>https://example.org/personal/conocimientos/index.html</link>
+      <pubDate>Mon, 25 Sep 2023 10:04:37 +0200</pubDate>
+      <guid>https://example.org/personal/conocimientos/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Aptitudes</title>
+      <link>https://example.org/personal/aptitudes/index.html</link>
+      <pubDate>Mon, 25 Sep 2023 10:04:45 +0200</pubDate>
+      <guid>https://example.org/personal/aptitudes/index.html</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

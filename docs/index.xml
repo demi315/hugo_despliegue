@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ignacio de Miguel</title>
+    <link>https://example.org/index.html</link>
+    <description>Recent content on Ignacio de Miguel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 20 Sep 2023 18:34:01 +0200</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sobre Mí</title>
+      <link>https://example.org/personal/index.html</link>
+      <pubDate>Mon, 25 Sep 2023 09:33:36 +0200</pubDate>
+      <guid>https://example.org/personal/index.html</guid>
+      <description>· Estudios · Conocimientos · Aptitudes </description>
+    </item>
+    <item>
+      <title>Markdown Cheatsheet</title>
+      <link>https://example.org/markdown/index.html</link>
+      <pubDate>Tue, 19 Sep 2023 10:56:03 +0200</pubDate>
+      <guid>https://example.org/markdown/index.html</guid>
+      <description>Distintas formas de resaltar el texto Cursiva Negrita Una mezcla un poco rara Tachado ### Distintas formas de resaltar el texto + *Cursiva* + **Negrita** + ***Una* mezcla un _poco_** _rara_ + ~~Tachado~~Formas de hacer [links] Link a Google Link a Google, pero cuando pasas por encima el ratón te muestra un texto Links con referencias: Referencia textual a Reddit Referencia numérica a Reddit El propio texto del likn es la referencia a Twitter Imágenes ### Formas de hacer [links] 1.</description>
+    </item>
+    <item>
+      <title>Shortcode</title>
+      <link>https://example.org/shortcode/index.html</link>
+      <pubDate>Mon, 25 Sep 2023 10:32:40 +0200</pubDate>
+      <guid>https://example.org/shortcode/index.html</guid>
+      <description>Attachments Archivos de ejemplo mtga.txt (25 B) otaku.txt (13 B) Badges Pirate King Hito Hito no Mi, Model: Nika
+Buttons Home Expand Menos Hola Hightlights &amp;#8203; c++ 1 2 3 4 5 6 7 8 #include &amp;lt;iostream&amp;gt; using namespace std; int main(){ cout &amp;lt;&amp;lt; &amp;#34;Hola Mundo&amp;#34;; return 0; } Icons https://fontawesome.com/v5/search?m=free
+Include Este texto es el que está dentro del fichero include
+Math $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$ Mermaid %%{init:{&amp;#34;fontFamily&amp;#34;:&amp;#34;monospace&amp;#34;, &amp;#34;sequence&amp;#34;:{&amp;#34;showSequenceNumbers&amp;#34;:true}}}%% sequenceDiagram Alice-&amp;gt;&amp;gt;John: Hello John, how are you?</description>
+    </item>
+  </channel>
+</rss>
